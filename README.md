@@ -1,4 +1,4 @@
-<img src="https://github.com/Jonatas-Jc/Cafeteria/blob/main/assets/Macbook-Air-127.0.0.1%20(1).png"
+<img src="https://github.com/Jonatas-Jc/Cafeteria/blob/main/assets/Macbook-Air-127.0.0.1%20(1).png">
 
 <div align="center"><h1>Cafeteria</h1></div>
 
